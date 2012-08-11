@@ -1,0 +1,10 @@
+c:\users\sagar\documents\visual studio 11\Projects\Mintwit\Mintwit\bin\Debug\Mintwit.dll
+c:\users\sagar\documents\visual studio 11\Projects\Mintwit\Mintwit\bin\Debug\Mintwit.pdb
+c:\users\sagar\documents\visual studio 11\Projects\Mintwit\Mintwit\bin\Debug\Mintwit.pri
+c:\users\sagar\documents\visual studio 11\Projects\Mintwit\Mintwit\obj\Debug\Mintwit.dll
+c:\users\sagar\documents\visual studio 11\Projects\Mintwit\Mintwit\obj\Debug\Mintwit.pdb
+c:\users\sagar\documents\visual studio 11\Projects\Mintwit\Mintwit\obj\Debug\priconfig.xml
+c:\users\sagar\documents\visual studio 11\Projects\Mintwit\Mintwit\obj\Debug\layout.resfiles
+c:\users\sagar\documents\visual studio 11\Projects\Mintwit\Mintwit\obj\Debug\resources.resfiles
+c:\users\sagar\documents\visual studio 11\Projects\Mintwit\Mintwit\obj\Debug\pri.resfiles
+c:\users\sagar\documents\visual studio 11\Projects\Mintwit\Mintwit\obj\Debug\LanguageQualifiers.txt
