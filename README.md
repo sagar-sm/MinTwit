@@ -9,7 +9,7 @@ The current version provides -
 *   Search for hashtags/terms etc.    
     
 **NOTE 1:** For information about creating a desktop application for Twitter, visit the [Twitter Developers Site](http://dev.twitter.com/)    
-**NOTE 2:** The Async functions return an awaitable Task<T> value. For more info read [Diving deep with WinRT and await](http://blogs.msdn.com/b/windowsappdev/archive/2012/04/24/diving-deep-with-winrt-and-await.aspx)
+**NOTE 2:** The Async functions return an awaitable Task`<T>` value. For more info read [Diving deep with WinRT and await](http://blogs.msdn.com/b/windowsappdev/archive/2012/04/24/diving-deep-with-winrt-and-await.aspx)
     
 0. Prerequisites
 ------------------
