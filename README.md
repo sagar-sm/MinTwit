@@ -16,7 +16,7 @@ The current version provides -
 1. In VS, Add a reference to the file MinTwit.dll
 2. Import the namespace "MinTwit" in your project. 
 
-    using MinTwit;
+        using MinTwit;
 3. [Create an application](https://dev.twitter.com/apps/new) for Twitter and use "oob" as the callback url.
 4. The ConsumerKey and ConsumerSecret that you'll get shall be used later.
 
