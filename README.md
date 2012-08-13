@@ -25,7 +25,7 @@ The current version provides -
 MinTwit uses 3 step PIN based [OAuth](http://oauth.net) to provide authorized access to Twitter's API. The process is fairly simple - 
 
     //1. Send out a request for getting an OAuth RequestToken -     
-    //Provide your ConsumerKey
+    //Provide your Consumer Key and Secret
 	    OAuthToken RequestToken = new OAuthToken();
 	    RequestToken = await OAuthControls.GetRequestTokenAsync(string ConsumerKey, string ConsumerSecret);		
     //2. Get the authorization URL from the RequestToken as follows -   
@@ -43,7 +43,7 @@ MinTwit uses 3 step PIN based [OAuth](http://oauth.net) to provide authorized ac
 
 2. Post Status Updates
 ------------------------
-        string response = await Twitter.Post_status(TweetBox.Text);
+        string response = await Twitter.PostStatusAsync((string) tweet);
 Updating status provides a response message on success as given [here](https://dev.twitter.com/docs/api/1/post/statuses/update). You can use the [JSON.NET](http://james.newtonking.com/projects/json-net.aspx) library by James Newton-King for parsing JSON.
 
 3. Get User Timeline
