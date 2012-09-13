@@ -1,0 +1,10 @@
+C:\Users\Sagar\Documents\GitHub\MinTwit\Mintwit\bin\Release\Mintwit.dll
+C:\Users\Sagar\Documents\GitHub\MinTwit\Mintwit\bin\Release\Mintwit.pdb
+C:\Users\Sagar\Documents\GitHub\MinTwit\Mintwit\bin\Release\Mintwit.pri
+C:\Users\Sagar\Documents\GitHub\MinTwit\Mintwit\obj\Release\Mintwit.dll
+C:\Users\Sagar\Documents\GitHub\MinTwit\Mintwit\obj\Release\Mintwit.pdb
+C:\Users\Sagar\Documents\GitHub\MinTwit\Mintwit\obj\Release\priconfig.xml
+C:\Users\Sagar\Documents\GitHub\MinTwit\Mintwit\obj\Release\layout.resfiles
+C:\Users\Sagar\Documents\GitHub\MinTwit\Mintwit\obj\Release\resources.resfiles
+C:\Users\Sagar\Documents\GitHub\MinTwit\Mintwit\obj\Release\pri.resfiles
+C:\Users\Sagar\Documents\GitHub\MinTwit\Mintwit\obj\Release\LanguageQualifiers.txt
