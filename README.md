@@ -1,6 +1,6 @@
 MinTwit
 ==========
-**[Currently under maintainence. Referring the dll may not work properly. Will be up soon with nuget support.]**
+**[DEPRECATED. NOT FOR USE]**
 
 *MinTwit* is a Twitter library for WinRT based apps(Metro style) for Windows 8, written in C#.
 The current version provides -    
